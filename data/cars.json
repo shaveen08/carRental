@@ -1,0 +1,99 @@
+[
+    {
+      "id": "car1",
+      "image": "./images/car1.png",
+      "name": "Suzuki",
+      "model": "Civic",
+      "features": [
+        {
+          "icon": "./images/car-seat.png",
+          "label": "4 Seats"
+        },
+        {
+          "icon": "./images/ac.png",
+          "label": "A/C"
+        }
+      ]
+    },
+    {
+      "id": "car2",
+      "image": "./images/car2.png",
+      "name": "Toyato",
+      "model": "Civic",
+      "features": [
+        {
+          "icon": "./images/car-seat.png",
+          "label": "4 Seats"
+        },
+        {
+          "icon": "./images/ac.png",
+          "label": "A/C"
+        }
+      ]
+    },
+    {
+      "id": "car3",
+      "image": "./images/car3.png",
+      "name": "Toyato",
+      "model": "Civic",
+      "features": [
+        {
+          "icon": "./images/car-seat.png",
+          "label": "4 Seats"
+        },
+        {
+          "icon": "./images/ac.png",
+          "label": "A/C"
+        }
+      ]
+    },
+    {
+      "id": "car4",
+      "image": "./images/car4.png",
+      "name": "Honda",
+      "model": "Civic",
+      "features": [
+        {
+          "icon": "./images/car-seat.png",
+          "label": "4 Seats"
+        },
+        {
+          "icon": "./images/ac.png",
+          "label": "A/C"
+        }
+      ]
+    },
+    {
+      "id": "car5",
+      "image": "./images/car5.png",
+      "name": "Swift",
+      "model": "Civic",
+      "features": [
+        {
+          "icon": "./images/car-seat.png",
+          "label": "4 Seats"
+        },
+        {
+          "icon": "./images/ac.png",
+          "label": "A/C"
+        }
+      ]
+    },
+    {
+      "id": "car6",
+      "image": "./images/car6.png",
+      "name": "Toyato",
+      "model": "Civic",
+      "features": [
+        {
+          "icon": "./images/car-seat.png",
+          "label": "4 Seats"
+        },
+        {
+          "icon": "./images/ac.png",
+          "label": "A/C"
+        }
+      ]
+    }
+  ]
+  
